@@ -1,0 +1,22 @@
+{
+  "name": "youtube-search",
+  "version": "1.0.0",
+  "description": "Youtube search app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vesic/youtube-search.git"
+  },
+  "author": "dusan.vesic@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vesic/youtube-search/issues"
+  },
+  "homepage": "https://github.com/vesic/youtube-search#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
